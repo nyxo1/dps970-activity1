@@ -1,0 +1,21 @@
+From: Bob <bob@random.org>
+To: student@example.com
+Subject: Test email
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5739934473085008187=="
+
+--===============5739934473085008187==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello, see attached.
+
+--===============5739934473085008187==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment; filename="notes.txt"
+MIME-Version: 1.0
+
+free winner prize cash lottery urgent
+
+--===============5739934473085008187==--

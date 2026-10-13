@@ -1,0 +1,8 @@
+From: Bob <bob@random.org>
+To: student@example.com
+Subject: Test email
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+ZnJlZSB3aW5uZXIgcHJpemUgY2FzaCBsb3R0ZXJ5IHVyZ2VudAo=
